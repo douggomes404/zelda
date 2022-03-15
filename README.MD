@@ -1,4 +1,6 @@
 #Controles
+
+
 Use as setas do teclado para mover
 Use espaço para atacar
 CTRL para utilizar magia
